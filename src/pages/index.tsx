@@ -1,3 +1,1 @@
-export default function Index() {
-  return <div>Index</div>;
-}
+export { default } from "../Index";
