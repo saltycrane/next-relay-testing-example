@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { RelayEnvironmentProvider } from "react-relay";
 
 import MyContent from "./MyContent";
